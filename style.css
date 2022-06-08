@@ -1057,3 +1057,14 @@ div > a > img {
     margin-left: 20px;
     margin-right: 20px;
 }
+
+q {
+    font-size: 16px;
+    font-weight: 500;
+    font-style: italic;
+    color: #484848;
+}
+
+q + p {
+    line-height: 30px;
+}
