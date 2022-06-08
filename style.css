@@ -1040,3 +1040,15 @@ h4 {
         text-align: center;
     }
 }
+
+div > a > img {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.social-media {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
