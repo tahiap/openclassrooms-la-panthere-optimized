@@ -7,6 +7,6 @@ Il porte sur l'analyse de l'état de SEO, des performances et de l'accessibilit�
 # Guide de déploiement
 
 Cloner le repository :
-$ git clone https://github.com/tahiap/openclassrooms-p7-kasa.git
+$ git clone https://github.com/tahiap/openclassrooms-p4-la-panthere-optimized.git
 
 Ouvrir avec Live Server.
