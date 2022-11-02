@@ -9,6 +9,6 @@ Un rapport détaillé des améliorations réalisées est disponible sur demande.
 # Guide de déploiement
 
 Cloner le repository :
-$ git clone https://github.com/tahiap/openclassrooms-p4-la-panthere-optimized.git
+$ git clone https://github.com/tahiap/openclassrooms-la-panthere-optimized.git
 
 Ouvrir avec Live Server.
